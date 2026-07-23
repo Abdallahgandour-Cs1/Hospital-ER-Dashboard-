@@ -6,7 +6,7 @@ An end-to-end interactive Power BI dashboard designed to monitor, analyze, and o
 
 ## 📸 Dashboard Preview
 
-![Dashboard Overview](Dashboard.png)
+
 
 ---
 
