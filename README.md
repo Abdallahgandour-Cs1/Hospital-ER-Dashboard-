@@ -2,11 +2,6 @@
 
 An end-to-end interactive Power BI dashboard designed to monitor, analyze, and optimize Hospital Emergency Room (ER) performance. This project provides actionable insights into patient admittance trends, wait times, satisfaction scores, and departmental workload distribution.
 
----
-
-## 📸 Dashboard Preview
-
-
 
 ---
 
